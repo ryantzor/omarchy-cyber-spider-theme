@@ -6,7 +6,9 @@ boardslides a glowing rail in a shower of sparks, kickflips off the end,
 powerslides to a stop, and blinks at you. That last frame is the wallpaper,
 with open space on the left for desktop icons.
 
-![Cyber Spider](preview.png)
+[![Cyber Spider - click to watch the showcase video](preview.png)](https://github.com/ryantzor/omarchy-cyber-spider-theme/releases/download/v1.0/cyber-spider-showcase.mp4)
+
+▶ **[Watch the 12 s showcase video](https://github.com/ryantzor/omarchy-cyber-spider-theme/releases/download/v1.0/cyber-spider-showcase.mp4)**
 
 ## Install
 
